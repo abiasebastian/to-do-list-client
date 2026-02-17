@@ -14,12 +14,7 @@ A modern To-Do List frontend application built with React and Vite.
 
 ## Installation
 
-1. Navigate to the client directory:
-   ```bash
-   cd client
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
